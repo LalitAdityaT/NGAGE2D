@@ -45,6 +45,8 @@ CMake fetches these libraries during configuration:
 - [TGUI 1.11.0](https://github.com/texus/TGUI)
 - [magic_enum 0.9.7](https://github.com/Neargye/magic_enum)
 
+[![Architecture diagram of lalitadityat/ngage2d](https://gitdiagram.com/lalitadityat/ngage2d/diagram.png)](https://gitdiagram.com/lalitadityat/ngage2d?utm_source=readme&utm_medium=picture)
+
 ## License
 
 This project is distributed under the MIT License. See [LICENSE](LICENSE).
